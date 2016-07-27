@@ -1,4 +1,8 @@
 # hello-world
-first try in Git
+#include <iostream>
 
-learning about commiting a change
+int main()
+{
+  printf("Hello World!");
+  return 0;
+}
